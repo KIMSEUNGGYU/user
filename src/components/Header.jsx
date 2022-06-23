@@ -17,6 +17,10 @@ const Wrapper = styled.header`
   display: flex;
   justify-content: center;
 
+  nav {
+    display: flex;
+  }
+
   a {
     text-decoration: none;
     padding: 0.5rem;
