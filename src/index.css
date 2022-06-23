@@ -1,3 +1,19 @@
 * {
   box-sizing: border-box;
 }
+
+a {
+  font-weight: bold;
+  font-size: 2rem;
+  display: block;
+  margin: 20px;
+}
+a {
+  all: unset;
+}
+
+a:hover {
+  text-decoration: none;
+  color: blue;
+  cursor: pointer;
+}
